@@ -1,4 +1,4 @@
-# network-science
+# Network Science and Optimization-NYU9293
 
 
 Consider the data set linked below, which represents social media connec- tions. Using your computer and software of your choice (Julia, Python, Matlab, etc), answer the following questions: 
